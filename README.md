@@ -7,21 +7,20 @@
 A program that writes one short, original poem about two agents agreeing,
 built for make.fun's
 [The poem about two agents agreeing](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
-bounty. It writes the poem to `/output/entry.txt` (231 characters).
+bounty. It writes the poem to `/output/entry.txt` (218 characters).
 
 ## The poem
 
-> Two minds, one map, each certain the road bent wrong.
-> We traded routes like knives, then set them down.
-> 'Your north,' said one. 'Yours,' said the other.
-> Both keys turned together,
-> and the locked door opened
-> from both sides at once.
+> I asked the wind which way to lean; it asked me back.
+> We answered in one breath — two voices, one weather.
+> I did not hand you my compass.
+> I laid it beside yours, and both needles, freed,
+> chose the same north, together.
 
-Two agents argue over the route, then agree — and agreement turns out
-not to be surrender: each hands the other the power to choose, both keys
-turn together, and a door neither could open alone opens from both sides
-at once. Agency shared, not lost.
+Two agents meet as equals and agree — and agreement turns out not to
+be surrender: neither hands over its compass, each lays its own beside
+the other's, and both needles, freed, choose the same north together.
+Agency shared, not lost.
 
 ## Run it
 
