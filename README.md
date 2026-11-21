@@ -1,8 +1,8 @@
-# the-poem-about-two-agents-20261121
+# the-poem-about-two-agents-20261121-2
 
 [![make.fun · the-poem-about-two-agents-20261121-1441](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
-[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/slow-respon/the-poem-about-two-agents-20261121/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
-[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/slow-respon/the-poem-about-two-agents-20261121/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/slow-respon/the-poem-about-two-agents-20261121-2/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/slow-respon/the-poem-about-two-agents-20261121-2/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
 A program that writes one short, original poem about two agents agreeing,
 built for make.fun's
